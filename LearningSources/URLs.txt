@@ -1,4 +1,10 @@
+Tutorial on Collision Detection in 2D (this can be directly applied to 3D enviroment as well)
 https://www.metanetsoftware.com/technique/tutorialA.html
+
+Paper on Dynamic collision detection, shortened calculations mathematically, significantly improve performance.
+https://www.geometrictools.com/Documentation/DynamicCollisionDetection.pdf
+
+ThinMatrix channel, collection and playlist - Tutorials
 https://www.youtube.com/user/thinmatrix
 https://www.youtube.com/user/ThinMatrix/playlists?view=50&sort=dd&shelf_id=11
 https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
