@@ -32,6 +32,7 @@ Textures used here are mostly free-to use or of my creation.
 
 There you can find my most valuable sources of knowledge while working on this project:
 ![URL's](https://github.com/MikiWiX/University__OpenGL-Game/edit/main/LearningSources/URLs.txt)
+https://github.com/MikiWiX/University__OpenGL-Game/edit/main/LearningSources/URLs.txt
 
 Here is a sample of how it looks like:
 ![Sample Screenshot](https://github.com/MikiWiX/University__OpenGL-Game/blob/main/Sample.png)
