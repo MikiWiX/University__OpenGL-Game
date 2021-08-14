@@ -26,7 +26,7 @@ Controls are assigned in a single Java Class, but here are current key bidings:
   - use JL to move your ship
   - press Space to fire a bullet
 
-I have also learned GLSL and how Shaders work.
+I gained a hell lot of knowledge (and liking) about Java while working on this project. I have also learned GLSL and how do Shaders work.
 
 Textures used here are mostly free-to use or of my creation.
 
