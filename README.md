@@ -30,8 +30,7 @@ I gained a hell lot of knowledge (and liking) about Java while working on this p
 
 Textures used here are mostly free-to use or of my creation.
 
-There you can find my most valuable sources of knowledge while working on this project:
-![URL's](https://github.com/MikiWiX/University__OpenGL-Game/edit/main/LearningSources/URLs.txt)
+There you can find my most valuable sources of knowledge while working on this project:  
 https://github.com/MikiWiX/University__OpenGL-Game/edit/main/LearningSources/URLs.txt
 
 Here is a sample of how it looks like:
